@@ -6,5 +6,9 @@ This project is for courses Object-Oriented Programming with the following proje
 
 Project progress 20%
 Codeing Program 50%
+  -All Features 12 Mode
+    -Finish 2 Mode
+    -Unfinish 10 Mode
+    As a 16.67%
 UX/UI 10%
 Book 0%
